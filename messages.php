@@ -156,7 +156,7 @@ return [
 
     'Home' => '首页',
     'Add Link' => '添加链接',
-    'Administration' => '管理员',
+    'Administration' => '管理',
     'Admin' => '管理员',
     'Config' => '配置',
     'Footer Pages' => '页脚页面',
@@ -406,17 +406,17 @@ return [
     |
     */
 
-    'Select a theme' => 'Select a theme',
-    'Select theme' => 'Select theme',
-    'Custom background' => 'Custom background',
-    'No image selected' => 'No image selected',
-    'Remove background' => 'Remove background',
-    'Manage themes' => 'Manage themes',
-    'Loading...' => 'Loading...',
-    'Upload themes' => 'Upload themes',
-    'Delete themes' => 'Delete themes',
-    'Download themes' => 'Download themes',
-    'Delete a theme' => 'Delete a theme',
+    'Select a theme' => '选择主题',
+    'Select theme' => '选择主题',
+    'Custom background' => '自定义背景',
+    'No image selected' => '未选择图像',
+    'Remove background' => '移除背景',
+    'Manage themes' => '管理主题',
+    'Loading...' => '加载中...',
+    'Upload themes' => '上传主题',
+    'Delete themes' => '删除主题',
+    'Download themes' => '下载主题',
+    'Delete a theme' => '删除主题',
 
 
     /*
@@ -428,13 +428,13 @@ return [
     |
     */
 
-    'Theme Updater' => 'Theme Updater',
-    'Theme name' => 'Theme name:',
-    'Update status' => 'Update status:',
-    'Version' => 'Version:',
-    'Error!' => 'Error!',
-    'Update manually' => 'Update manually',
-    'Update all themes' => 'Update all themes',
+    'Theme Updater' => '主题更新器',
+    'Theme name' => '主题名称:',
+    'Update status' => '更新状态:',
+    'Version' => '版本:',
+    'Error!' => '错误!',
+    'Update manually' => '手动更新',
+    'Update all themes' => '更新所有主题',
 
 
     /*
@@ -498,7 +498,7 @@ return [
     |
     */
 
-    'Delete theme' => 'Delete theme',
+    'Delete theme' => '删除主题',
 
 
     /*
@@ -1047,10 +1047,10 @@ return [
     |
     */
 
-    'footer.Home' => 'Home',
-    'footer.Terms' => 'Terms',
-    'footer.Privacy' => 'Privacy',
-    'footer.Contact' => 'Contact',
+    'footer.Home' => '首页',
+    'footer.Terms' => '条款',
+    'footer.Privacy' => '隐私',
+    'footer.Contact' => '联系我们',
 
 
     /*
